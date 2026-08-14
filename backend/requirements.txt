@@ -1,0 +1,5 @@
+# ==============================================================================
+# Requirements File
+# Purpose: Lists all third-party Python dependencies and libraries needed
+#          for the Repo_Analyzer backend (e.g. FastAPI, Uvicorn, Pydantic, httpx).
+# ==============================================================================
