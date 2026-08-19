@@ -8,7 +8,7 @@ import time
 from datetime import datetime,timezone
 from fastapi import APIRouter, status
 from app.core.config import settings
-from app.models.schemas import (
+from app.schemas import (
     HealthResponse,
     HealthStatusEnum,
     ModuleCapability,
